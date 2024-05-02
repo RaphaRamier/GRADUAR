@@ -1,5 +1,5 @@
 '''
-O intuito do algoritmo é converter números romanos, que são strings, em números (int).
+O intuito do algoritmo é converter números romanos, que são strings, em números(int).
 Sem o uso da biblioteca Roman.
 
 '''
